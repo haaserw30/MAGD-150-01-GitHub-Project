@@ -1,4 +1,7 @@
 These three files are three assignments turned in for MAGD 150 in the 2025 fall semester. 
+
 **Lab Assignment 6** involved using arrays to create motion in p5js. I created a flickering ghost that follows a pumpkin attached to the mouse cursor for this assignment.
+
 **Lab Assignment 8** involved using images in p5js and running a simple web server. I created a simple playable version of Tic Tac Toe for this assignment.
+
 **Lab Assignment 10** was practice using functions and methods from a chosen external library for use in the final p5js project. For this assignment, I created a hexagonal grid using the p5grid library and practiced placing hexagons.
